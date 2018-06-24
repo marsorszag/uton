@@ -1,3 +1,4 @@
+
 <program>
 	<politika>
 
@@ -21,7 +22,7 @@
 	Ez a gondolkodás alapvetően azért hibás, mert hibázni minden olyan esetben képesnek kell lennünk, amikor nem tudjuk, hogy milyen kimenetellel cselekszünk. Csak egy hibából tudhatjuk meg, hogy a feltevésünk téves. Ha nem vállaljuk fel a hiba lehetőségét, sohasem tudjuk meg, hogy az elképzelésünk a valósággal összhangban volt e.
 	Ezért fontos megtanulni felkészülten hibázni, mert bizonytalan esetben ez a siker lehetőségének ára.
 
-	Az iskolai kudarcokról: tényleg azt várjuk, hogy ugyanolyan könnyedséggel sajátítsák el a tananyagot a legváltozatosabb családi és társadalmi körülmények közül érkezők, mint azok akikkel a szüleik színházba járnak? Biztos, hogy _ennyire_ szigorúan kell büntetnünk és _ilyen_ serényen jutalmaznunk gyerekeket a családi hátterük miatt? Nem lenne esetleg több haszna ha csapatmunkára nevelnénk őket, hogy elsajátíthassák későbbi életük során szükséges legfontosabb képességet, az együttműködés képességét, és nem foglalkoznánk _ennyire_ alaposan az egyéni kiválóságukkal? 
+	Az iskolai kudarcokról: tényleg azt várjuk, hogy ugyanolyan könnyedséggel sajátítsák el a tananyagot a legváltozatosabb családi és társadalmi körülmények közül érkező gyerekek, mint azok akikkel a szüleik színházba járnak? Biztos, hogy _ennyire_ szigorúan kell büntetnünk és _ilyen_ serényen jutalmaznunk gyerekeket a családi hátterük miatt? Nem lenne esetleg több haszna ha csapatmunkára nevelnénk őket, hogy elsajátíthassák későbbi életük során szükséges legfontosabb képességet, az együttműködés képességét, és nem foglalkoznánk _ennyire_ alaposan az egyéni kiválóságukkal? 
 
 	A fejlődő-gondolkodásmód lényege, hogy mind rendelkezünk a tanulás képességével, és mint minden képesség, ez is fejlődik, ha használjuk, eddzük azt.
 
