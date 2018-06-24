@@ -1,6 +1,6 @@
 
 > Legnagyobb közös nevezőnk Magyarországon az, hogy megoldjuk jelenlegi gondjainkat.
->Erre azonban egyetlen párt sem alkalmas, még megválasztása esetén sem. Ha sikerül is jobb feltételeket biztosítania az ország jogán keresztül, a nemzetközi környezet és verseny feltételei adottak.
+> Erre azonban egyetlen párt sem alkalmas, még megválasztása esetén sem. Ha sikerül is jobb feltételeket biztosítania az ország jogán keresztül, a nemzetközi környezet és verseny feltételei adottak.
 	
 >	Rengeteg időt töltünk a fennálló kormány vagy bármelyik párt bírálatával, sokkal több időt mint bármi mással. Ez a legkártékonyabb pótcselekvésünk, az időnket, figyelmünket és erőfeszítésünket erre vesztegetni. Azt mutatja, hogy még nem fogtuk fel vagy ismertük el saját felelősségünket a helyzetben, és másoktól várunk megoldásokat a saját problémáinkra. 
 
