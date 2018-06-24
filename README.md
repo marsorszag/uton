@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+<program>
+	<politika>
 
-You can use the [editor on GitHub](https://github.com/marsorszag/uton/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+	Legnagyobb közös nevezőnk Magyarországon az, hogy megoldjuk jelenlegi gondjainkat.
+	Erre azonban egyetlen párt sem alkalmas, még megválasztása esetén sem. Ha sikerül is jobb feltételeket biztosítania az ország jogán keresztül, a nemzetközi környezet és verseny feltételei adottak.
+	
+	Rengeteg időt töltünk a fennálló kormány vagy bármelyik párt bírálatával, sokkal több időt mint bármi mással. Ez a legkártékonyabb pótcselekvésünk, az időnket, figyelmünket és erőfeszítésünket erre vesztegetni. Azt mutatja, hogy még nem fogtuk fel vagy ismertük el saját felelősségünket a helyzetben, és másoktól várunk megoldásokat a saját problémáinkra. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+	De még ha a magyar politikai pártokat érdekelné is, hogy mit gondolunk róluk, és ellenzőik szavára ugyanúgy figyelnének, mint támogatóik szavára, és őszinte javító szándékkal próbálnának jobban, hitelesebben, ügyesebben politizálni, mégis mire lenne ez elég?
 
-### Markdown
+	Az oktatásra és egészségügyre például több pénzt költhetne általában szűkös forrásaiból, de mire lenne ez elég? A tanárok az iskolákban ugyanazok az emberek maradnának, és az új tanárokat ugyanazok a professzorok nevelnék, mint eddig. A tanterv liberalizációjával biztos, hogy javulna a közoktatás színvonala, de mélyebb változás addig nem fog eljönni, amíg a tanárok egyenként és tömegesen fel nem vállalják azt, hogy az írás és számolni tudás korszerű technológiáit először maguk megismerjék, használni kezdjék, és végül képessé váljanak arra diákokat is megtanítani. Minden erre tett kísérlet kudarcra van ítélve, a tanári kar pontosan tudja, hogy pótolhatatlan, és ezért akarata ellenére noszogatni, motiválni nem lehet. Ebben valahol benne van történelmünk, makacsságunk, a passzív ellenállás kultúrája.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	Az egészségügy színvonalának javítása rengeteg életet menthet meg ugyan, de az öregedő magyar társadalom egyre kevésbé lesz képes eltartani a megmentett életeket a jelenlegi magyar nemzeti jövedelem mellett.
 
-```markdown
-Syntax highlighted code block
+	Ilyen szempontból a politika alapvetően nem jelentős, nem a kormány feladata gazdaságot fenntartani, mert ez legfeljebb a gazdaság létezését lehetővé tevő körülmények fenntartása. Egy sikeres gazdasági vállalkozáshoz szükséges vállalkozószellem, amihez ugyanaz a gondolkodásmód szükséges, mint amire a magyar tanári kartól számítunk a digitális átállás kapcsán: a _fejlődő-gondolkodásmód_.
 
-# Header 1
-## Header 2
-### Header 3
+	A fejlődő-gondolkodásmód egy nagyon egyszerű feltételezésen nyugszik: felismerni és elfogadni azt, hogy bármit megtanulhatunk, és ez által bármit el is érhetünk, ha időt fordítunk rá és teszünk érte, bármelyikőnk.
 
-- Bulleted
-- List
+	Vannak területek, témák, amikről nehéz elképzelni, hogy meg tudjuk tanulni, meg tudjuk érteni. Korábbi rossz visszajelzések, a lelki akadályok vagy a kudarcélmények hatására épül fel az elképzelés, hogy vannak korlátaink, például matematikából. A kudarcélmények képesek megbénítani, a frusztráció élményének emléke képes lényegbevágó dolgokban akadályozni, de ezen túl lehet lépni. Az iskolában nem tanulunk sem arról, hogy hogyan kell hibázni, sem a kudarcról, sem arról, hogy mit jelent, vagy hogy hogyan kell kezelni. Azért nem tanulunk róla, mert ez tabu, a mi társadalmunkban kimondatlanul azt feltételezzük, hogy a siker és kudarc valamiféle genetikai vagy társadalmi kiválóságunkból fakad, és tapintatosan nem is beszélünk ezért kudarcról, nehogy a kevésbé kiválóak szembesüljenek saját gyengeségükkel. Hogy ez a mélységesmély félreértés hogyan alakult ki, teljesen mindegy, őseink sem éltek józanabb életet nálunk, se mi náluk, ne is rójuk fel nekik.
 
-1. Numbered
-2. List
+	Ez a gondolkodás alapvetően azért hibás, mert hibázni minden olyan esetben képesnek kell lennünk, amikor nem tudjuk, hogy milyen kimenetellel cselekszünk. Csak egy hibából tudhatjuk meg, hogy a feltevésünk téves. Ha nem vállaljuk fel a hiba lehetőségét, sohasem tudjuk meg, hogy az elképzelésünk a valósággal összhangban volt e.
+	Ezért fontos megtanulni felkészülten hibázni, mert bizonytalan esetben ez a siker lehetőségének ára.
 
-**Bold** and _Italic_ and `Code` text
+	Az iskolai kudarcokról: tényleg azt várjuk, hogy ugyanolyan könnyedséggel sajátítsák el a tananyagot a legváltozatosabb családi és társadalmi körülmények közül érkezők, mint azok akikkel a szüleik színházba járnak? Biztos, hogy _ennyire_ szigorúan kell büntetnünk és _ilyen_ serényen jutalmaznunk gyerekeket a családi hátterük miatt? Nem lenne esetleg több haszna ha csapatmunkára nevelnénk őket, hogy elsajátíthassák későbbi életük során szükséges legfontosabb képességet, az együttműködés képességét, és nem foglalkoznánk _ennyire_ alaposan az egyéni kiválóságukkal? 
 
-[Link](url) and ![Image](src)
-```
+	A fejlődő-gondolkodásmód lényege, hogy mind rendelkezünk a tanulás képességével, és mint minden képesség, ez is fejlődik, ha használjuk, eddzük azt.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+	Ez a gondolkodásmód minden, amire szükségünk van ahhoz, hogy megújítsuk Magyarországot. Részben, mert a saját önálló független hatalmunkat jelképezi: azt, hogy nincsenek függőségeink, nem számít, mit tesz az állam, nem számít, mennyire működnek épp jól az állami intézmények, nem számít, kiket választunk meg, kik terpeszkedhetnek a parlamentben. Ugyanis mindettől függetlenül képesek vagyunk tanulni, fejlődni és ezen keresztül megoldásokat keresni a saját problémáinkra, majd ezeket egyénileg vagy közösen, helyileg vagy nagyobb területet átfogóan megvalósítani.
 
-### Jekyll Themes
+	Például, aki le szeretné váltani a kormányt 2022-ben, valószínűleg nincs más dolga, mint összefogni a hasonló gondolkodásúakkal és megszervezni minden kerületben egy civil szervezésű demokratikus előválasztást, mely független a választási rendszertől.. Ehhez ki kell választani 2021-ben az ellenjelölteket, illetve részt kell venni a választások tisztaságát ellenőrző állampolgári folyamatban. A kormány leváltásával azonban feltehetőleg közös problémáinknak legfeljebb egy részében fogunk javulást tapasztalni, és biztos, hogy idővel új problémáink is keletkezni fognak.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marsorszag/uton/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+	Ezért gyökeres változást az ezen túlmenő megoldások fejlesztésével érhetünk el, és ennek a megoldáskeresésnek a részét képezi, ha mind, külön-külön fejlődünk képességeinkben.  A fejlődés egyik módja, hogy túllépünk a már ismert, biztonságos, kényelmes világunk határain, és korábban ismeretlen és új területek felé fordulunk. Ismerkedjünk meg a matematikával újra az alapoktól, próbáljunk ki egy új sportágat, válasszunk meglévő olvasmányainktól eltérő könyvet, keressünk új szórakozási formákat vagy váltsunk stílust, szokásokat, bármiben ami tetszik.
 
-### Support or Contact
+	Rendkívül sok forrást tesz elérhetővé és új lehetőséget tár fel az angol nyelv ismerete, ezért lehetőségeitől függően mindenkinek érdemes elsajátítania, akár egy mobil alkalmazáson**, akár egy tanfolyamon keresztül.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+	Az angol nyelvet beszélve viszonylag könnyen elsajátíthatóak számítástechnikai és programozási képességek, amik különösen hasznosak a jelenlegi helyzetben. Egyrészt, mert lehetséges jövedelemforrást jelentenek, másrészt a bennünket körülvevő világ fejlődésének következtében.
+
+	A legtöbbünk felnőtté válás közben komolyabbá válik, merevebbé, nehezen tévedhetőbbé. Ezáltal sokszor akadályozzuk magunkat új dolgok kipróbálásában, nem vállalva a kockázatát annak, hogy megbotlunk, nevetségessé válunk, hitelességünket vagy méltóságunkat vesztjünk. Ezek mind valós kockázatok. Azonban nagyobb veszélyt jelent biztonságosan játszva megfosztani magunkat annak a lehetőségétől, hogy új dolgokat próbáljunk ki és fejlődjünk akár a siker, akár a kudarc által. Ilyenkor ellenfelünkké saját büszkeségünk válik, ezért mindannyiunk számára fontos megtanulni felfüggeszteni azt, és tiszteletben tartani, amikor valaki más teszi ezt.
+
+	Ez a legkomolyabb lelki akadály. A félelem attól, hogy nevetségessé vagy sebezhetővé válunk. Azonban, mint minden félelmet, ezt is csak úgy lehet legyőzni, hogy szembenézünk vele. Ez a képesség is használat közben fejlődik, hiszen minden győzelemmel erősebbé válunk.
+
+	Saját elért állapotunk és helyzetünk elfogadása, az ebből következő nem-cselekvés ugyanígy akadályoz bennünket. Mindig nagy a késztetés, hiszen egyszerűbb és kevesebb fáradtságot igényel megindokolni, hogy miért jó minden úgy, ahogy van. Ami nehéz, az korlátaink és hibáink felismerése, beismerése és elfogadása. Hiszen a hibák beismerése újabb erőfeszítéseket tesz indokolttá.
+
+	Egymástól nem várhatunk megoldásokat, mert ugyanennyi erővel várhatják azt mások is tőlünk. Ezért indokolt, hogy felelősséget vállaljunk ezért a megoldás-keresésért és a saját, közvetlen képességeinkre és lehetőségeinkre hagyatkozzunk, amikor csak lehet. Ha végre elégedetlenségét ki-ki országunk helyett önmaga felé meri fordítani, elégedetlenségünk mértékét ismerve Magyarország oly mértékű felemelkedése várható, hogy a Kékes a NASA előtt ér a Marsra.
+
+	Figyelemreméltó a skandináv népek hozzáállása a közösséghez: Jante törvénye. Ez a fagyos törvény azt mondja ki, hogy az egyén semmiben nem jobb a közösségnél, amelyikben él, hiszen az nevelte fel, gondoskodott róla, s tette azzá, ami. Ezért a skandinávok jellemzően szerényebbek, hiszen a közösség tagjaként senki másnál nem érezhetik többnek (sem kevesebbnek), jobbnak (sem rosszabbnak), vagy fontosabbnak magukat. Ezt nem is éreztethetik egymással. Ez a hozzáállás sok tekintetben egyenlőbbé tesz és a gyakorlatban is vannak előnyei. Kevesebb összeütközést szül, így az együttműködést is megkönnyíti. Ez a hozzáállás nekünk is sokat segíthet, amikor együtt működünk.
+
+	</politika>
+</program>
