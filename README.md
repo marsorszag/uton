@@ -1,6 +1,6 @@
 
-><program>
->	<politika>
+>"<program>" 
+>	"<politika>" 
 
 > Legnagyobb közös nevezőnk Magyarországon az, hogy megoldjuk jelenlegi gondjainkat.
 >Erre azonban egyetlen párt sem alkalmas, még megválasztása esetén sem. Ha sikerül is jobb feltételeket biztosítania az ország jogán keresztül, a nemzetközi környezet és verseny feltételei adottak.
@@ -46,5 +46,5 @@
 
 >	Figyelemreméltó a skandináv népek hozzáállása a közösséghez: Jante törvénye. Ez a fagyos törvény azt mondja ki, hogy az egyén semmiben nem jobb a közösségnél, amelyikben él, hiszen az nevelte fel, gondoskodott róla, s tette azzá, ami. Ezért a skandinávok jellemzően szerényebbek, hiszen a közösség tagjaként senki másnál nem érezhetik többnek (sem kevesebbnek), jobbnak (sem rosszabbnak), vagy fontosabbnak magukat. Ezt nem is éreztethetik egymással. Ez a hozzáállás sok tekintetben egyenlőbbé tesz és a gyakorlatban is vannak előnyei. Kevesebb összeütközést szül, így az együttműködést is megkönnyíti. Ez a hozzáállás nekünk is sokat segíthet, amikor együtt működünk.
 
->	</politika>
-></program>
+>	"</politika>" 
+>"</program>" 
